@@ -1,0 +1,13 @@
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\bin\Debug\Grade_Save_System.exe.config
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\bin\Debug\Grade_Save_System.exe
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\bin\Debug\Grade_Save_System.pdb
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.csproj.AssemblyReference.cache
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.Form1.resources
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.FrmStudent.resources
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.FrmTeacher.resources
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.Properties.Resources.resources
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.csproj.GenerateResource.cache
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.csproj.CoreCompileInputs.cache
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.exe
+C:\Users\saday\source\repos\Grade_Save_System\Grade_Save_System\obj\Debug\Grade_Save_System.pdb
